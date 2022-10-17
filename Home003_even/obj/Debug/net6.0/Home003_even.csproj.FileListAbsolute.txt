@@ -1,0 +1,15 @@
+D:\обучение\c#\Home003_even\obj\Debug\net6.0\Home003_even.csproj.AssemblyReference.cache
+D:\обучение\c#\Home003_even\obj\Debug\net6.0\Home003_even.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\c#\Home003_even\obj\Debug\net6.0\Home003_even.AssemblyInfoInputs.cache
+D:\обучение\c#\Home003_even\obj\Debug\net6.0\Home003_even.AssemblyInfo.cs
+D:\обучение\c#\Home003_even\obj\Debug\net6.0\Home003_even.csproj.CoreCompileInputs.cache
+D:\обучение\c#\Home003_even\bin\Debug\net6.0\Home003_even.exe
+D:\обучение\c#\Home003_even\bin\Debug\net6.0\Home003_even.deps.json
+D:\обучение\c#\Home003_even\bin\Debug\net6.0\Home003_even.runtimeconfig.json
+D:\обучение\c#\Home003_even\bin\Debug\net6.0\Home003_even.dll
+D:\обучение\c#\Home003_even\bin\Debug\net6.0\Home003_even.pdb
+D:\обучение\c#\Home003_even\obj\Debug\net6.0\Home003_even.dll
+D:\обучение\c#\Home003_even\obj\Debug\net6.0\refint\Home003_even.dll
+D:\обучение\c#\Home003_even\obj\Debug\net6.0\Home003_even.pdb
+D:\обучение\c#\Home003_even\obj\Debug\net6.0\Home003_even.genruntimeconfig.cache
+D:\обучение\c#\Home003_even\obj\Debug\net6.0\ref\Home003_even.dll
