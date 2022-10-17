@@ -1,0 +1,15 @@
+D:\обучение\c#\Example005_if\obj\Debug\net6.0\Example005_if.csproj.AssemblyReference.cache
+D:\обучение\c#\Example005_if\obj\Debug\net6.0\Example005_if.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\c#\Example005_if\obj\Debug\net6.0\Example005_if.AssemblyInfoInputs.cache
+D:\обучение\c#\Example005_if\obj\Debug\net6.0\Example005_if.AssemblyInfo.cs
+D:\обучение\c#\Example005_if\obj\Debug\net6.0\Example005_if.csproj.CoreCompileInputs.cache
+D:\обучение\c#\Example005_if\bin\Debug\net6.0\Example005_if.exe
+D:\обучение\c#\Example005_if\bin\Debug\net6.0\Example005_if.deps.json
+D:\обучение\c#\Example005_if\bin\Debug\net6.0\Example005_if.runtimeconfig.json
+D:\обучение\c#\Example005_if\bin\Debug\net6.0\Example005_if.dll
+D:\обучение\c#\Example005_if\bin\Debug\net6.0\Example005_if.pdb
+D:\обучение\c#\Example005_if\obj\Debug\net6.0\Example005_if.dll
+D:\обучение\c#\Example005_if\obj\Debug\net6.0\refint\Example005_if.dll
+D:\обучение\c#\Example005_if\obj\Debug\net6.0\Example005_if.pdb
+D:\обучение\c#\Example005_if\obj\Debug\net6.0\Example005_if.genruntimeconfig.cache
+D:\обучение\c#\Example005_if\obj\Debug\net6.0\ref\Example005_if.dll
