@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Home001_MinMax/1.0.0": {
+        "runtime": {
+          "Home001_MinMax.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Home001_MinMax/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

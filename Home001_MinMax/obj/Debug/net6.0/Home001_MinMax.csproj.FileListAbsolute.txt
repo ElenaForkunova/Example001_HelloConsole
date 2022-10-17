@@ -1,0 +1,15 @@
+D:\обучение\c#\Home001_MinMax\obj\Debug\net6.0\Home001_MinMax.csproj.AssemblyReference.cache
+D:\обучение\c#\Home001_MinMax\obj\Debug\net6.0\Home001_MinMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\c#\Home001_MinMax\obj\Debug\net6.0\Home001_MinMax.AssemblyInfoInputs.cache
+D:\обучение\c#\Home001_MinMax\obj\Debug\net6.0\Home001_MinMax.AssemblyInfo.cs
+D:\обучение\c#\Home001_MinMax\obj\Debug\net6.0\Home001_MinMax.csproj.CoreCompileInputs.cache
+D:\обучение\c#\Home001_MinMax\bin\Debug\net6.0\Home001_MinMax.exe
+D:\обучение\c#\Home001_MinMax\bin\Debug\net6.0\Home001_MinMax.deps.json
+D:\обучение\c#\Home001_MinMax\bin\Debug\net6.0\Home001_MinMax.runtimeconfig.json
+D:\обучение\c#\Home001_MinMax\bin\Debug\net6.0\Home001_MinMax.dll
+D:\обучение\c#\Home001_MinMax\bin\Debug\net6.0\Home001_MinMax.pdb
+D:\обучение\c#\Home001_MinMax\obj\Debug\net6.0\Home001_MinMax.dll
+D:\обучение\c#\Home001_MinMax\obj\Debug\net6.0\refint\Home001_MinMax.dll
+D:\обучение\c#\Home001_MinMax\obj\Debug\net6.0\Home001_MinMax.pdb
+D:\обучение\c#\Home001_MinMax\obj\Debug\net6.0\Home001_MinMax.genruntimeconfig.cache
+D:\обучение\c#\Home001_MinMax\obj\Debug\net6.0\ref\Home001_MinMax.dll
