@@ -1,0 +1,15 @@
+D:\обучение\c#\Example001_max9FF\obj\Debug\net6.0\Example001_max9FF.csproj.AssemblyReference.cache
+D:\обучение\c#\Example001_max9FF\obj\Debug\net6.0\Example001_max9FF.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\c#\Example001_max9FF\obj\Debug\net6.0\Example001_max9FF.AssemblyInfoInputs.cache
+D:\обучение\c#\Example001_max9FF\obj\Debug\net6.0\Example001_max9FF.AssemblyInfo.cs
+D:\обучение\c#\Example001_max9FF\obj\Debug\net6.0\Example001_max9FF.csproj.CoreCompileInputs.cache
+D:\обучение\c#\Example001_max9FF\bin\Debug\net6.0\Example001_max9FF.exe
+D:\обучение\c#\Example001_max9FF\bin\Debug\net6.0\Example001_max9FF.deps.json
+D:\обучение\c#\Example001_max9FF\bin\Debug\net6.0\Example001_max9FF.runtimeconfig.json
+D:\обучение\c#\Example001_max9FF\bin\Debug\net6.0\Example001_max9FF.dll
+D:\обучение\c#\Example001_max9FF\bin\Debug\net6.0\Example001_max9FF.pdb
+D:\обучение\c#\Example001_max9FF\obj\Debug\net6.0\Example001_max9FF.dll
+D:\обучение\c#\Example001_max9FF\obj\Debug\net6.0\refint\Example001_max9FF.dll
+D:\обучение\c#\Example001_max9FF\obj\Debug\net6.0\Example001_max9FF.pdb
+D:\обучение\c#\Example001_max9FF\obj\Debug\net6.0\Example001_max9FF.genruntimeconfig.cache
+D:\обучение\c#\Example001_max9FF\obj\Debug\net6.0\ref\Example001_max9FF.dll
