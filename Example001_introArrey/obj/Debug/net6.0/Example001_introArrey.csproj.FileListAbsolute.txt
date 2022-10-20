@@ -1,0 +1,15 @@
+D:\обучение\c#\Example001_introArrey\bin\Debug\net6.0\Example001_introArrey.exe
+D:\обучение\c#\Example001_introArrey\bin\Debug\net6.0\Example001_introArrey.deps.json
+D:\обучение\c#\Example001_introArrey\bin\Debug\net6.0\Example001_introArrey.runtimeconfig.json
+D:\обучение\c#\Example001_introArrey\bin\Debug\net6.0\Example001_introArrey.dll
+D:\обучение\c#\Example001_introArrey\bin\Debug\net6.0\Example001_introArrey.pdb
+D:\обучение\c#\Example001_introArrey\obj\Debug\net6.0\Example001_introArrey.csproj.AssemblyReference.cache
+D:\обучение\c#\Example001_introArrey\obj\Debug\net6.0\Example001_introArrey.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\c#\Example001_introArrey\obj\Debug\net6.0\Example001_introArrey.AssemblyInfoInputs.cache
+D:\обучение\c#\Example001_introArrey\obj\Debug\net6.0\Example001_introArrey.AssemblyInfo.cs
+D:\обучение\c#\Example001_introArrey\obj\Debug\net6.0\Example001_introArrey.csproj.CoreCompileInputs.cache
+D:\обучение\c#\Example001_introArrey\obj\Debug\net6.0\Example001_introArrey.dll
+D:\обучение\c#\Example001_introArrey\obj\Debug\net6.0\refint\Example001_introArrey.dll
+D:\обучение\c#\Example001_introArrey\obj\Debug\net6.0\Example001_introArrey.pdb
+D:\обучение\c#\Example001_introArrey\obj\Debug\net6.0\Example001_introArrey.genruntimeconfig.cache
+D:\обучение\c#\Example001_introArrey\obj\Debug\net6.0\ref\Example001_introArrey.dll
