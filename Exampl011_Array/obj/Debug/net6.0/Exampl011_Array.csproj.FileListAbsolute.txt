@@ -1,0 +1,15 @@
+D:\обучение\c#\Exampl011_Array\bin\Debug\net6.0\Exampl011_Array.exe
+D:\обучение\c#\Exampl011_Array\bin\Debug\net6.0\Exampl011_Array.deps.json
+D:\обучение\c#\Exampl011_Array\bin\Debug\net6.0\Exampl011_Array.runtimeconfig.json
+D:\обучение\c#\Exampl011_Array\bin\Debug\net6.0\Exampl011_Array.dll
+D:\обучение\c#\Exampl011_Array\bin\Debug\net6.0\Exampl011_Array.pdb
+D:\обучение\c#\Exampl011_Array\obj\Debug\net6.0\Exampl011_Array.csproj.AssemblyReference.cache
+D:\обучение\c#\Exampl011_Array\obj\Debug\net6.0\Exampl011_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\c#\Exampl011_Array\obj\Debug\net6.0\Exampl011_Array.AssemblyInfoInputs.cache
+D:\обучение\c#\Exampl011_Array\obj\Debug\net6.0\Exampl011_Array.AssemblyInfo.cs
+D:\обучение\c#\Exampl011_Array\obj\Debug\net6.0\Exampl011_Array.csproj.CoreCompileInputs.cache
+D:\обучение\c#\Exampl011_Array\obj\Debug\net6.0\Exampl011_Array.dll
+D:\обучение\c#\Exampl011_Array\obj\Debug\net6.0\refint\Exampl011_Array.dll
+D:\обучение\c#\Exampl011_Array\obj\Debug\net6.0\Exampl011_Array.pdb
+D:\обучение\c#\Exampl011_Array\obj\Debug\net6.0\Exampl011_Array.genruntimeconfig.cache
+D:\обучение\c#\Exampl011_Array\obj\Debug\net6.0\ref\Exampl011_Array.dll
