@@ -1,0 +1,15 @@
+D:\обучение\c#\Example010_find\bin\Debug\net6.0\Example010_find.exe
+D:\обучение\c#\Example010_find\bin\Debug\net6.0\Example010_find.deps.json
+D:\обучение\c#\Example010_find\bin\Debug\net6.0\Example010_find.runtimeconfig.json
+D:\обучение\c#\Example010_find\bin\Debug\net6.0\Example010_find.dll
+D:\обучение\c#\Example010_find\bin\Debug\net6.0\Example010_find.pdb
+D:\обучение\c#\Example010_find\obj\Debug\net6.0\Example010_find.csproj.AssemblyReference.cache
+D:\обучение\c#\Example010_find\obj\Debug\net6.0\Example010_find.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\c#\Example010_find\obj\Debug\net6.0\Example010_find.AssemblyInfoInputs.cache
+D:\обучение\c#\Example010_find\obj\Debug\net6.0\Example010_find.AssemblyInfo.cs
+D:\обучение\c#\Example010_find\obj\Debug\net6.0\Example010_find.csproj.CoreCompileInputs.cache
+D:\обучение\c#\Example010_find\obj\Debug\net6.0\Example010_find.dll
+D:\обучение\c#\Example010_find\obj\Debug\net6.0\refint\Example010_find.dll
+D:\обучение\c#\Example010_find\obj\Debug\net6.0\Example010_find.pdb
+D:\обучение\c#\Example010_find\obj\Debug\net6.0\Example010_find.genruntimeconfig.cache
+D:\обучение\c#\Example010_find\obj\Debug\net6.0\ref\Example010_find.dll
