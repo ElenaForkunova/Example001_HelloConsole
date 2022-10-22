@@ -4,7 +4,7 @@ a = 2, b = 10 -> нет
 a = 9, b = -3 -> да 
 a = -3 b = 9 -> нет*/
 
-Console.WriteLine("введи второе число ");
+Console.WriteLine("введи первое число ");
 Console.WriteLine("введи второе число ");
 
 int a = Convert.ToInt32(Console.ReadLine ());
