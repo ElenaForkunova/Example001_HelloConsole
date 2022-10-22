@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Введите координаты первой точки");
+﻿/*комментарий, котрый нужно написать на несколько строк 
+можно записать так*/
+
+Console.WriteLine("Введите координаты первой точки");
 int x1 = Convert.ToInt32(Console.ReadLine());
 int y1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите координаты 2 точки");
