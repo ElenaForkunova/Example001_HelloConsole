@@ -1,0 +1,15 @@
+D:\обучение\c#\proekt002_004\obj\Debug\net6.0\proekt002_004.csproj.AssemblyReference.cache
+D:\обучение\c#\proekt002_004\obj\Debug\net6.0\proekt002_004.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\c#\proekt002_004\obj\Debug\net6.0\proekt002_004.AssemblyInfoInputs.cache
+D:\обучение\c#\proekt002_004\obj\Debug\net6.0\proekt002_004.AssemblyInfo.cs
+D:\обучение\c#\proekt002_004\obj\Debug\net6.0\proekt002_004.csproj.CoreCompileInputs.cache
+D:\обучение\c#\proekt002_004\bin\Debug\net6.0\proekt002_004.exe
+D:\обучение\c#\proekt002_004\bin\Debug\net6.0\proekt002_004.deps.json
+D:\обучение\c#\proekt002_004\bin\Debug\net6.0\proekt002_004.runtimeconfig.json
+D:\обучение\c#\proekt002_004\bin\Debug\net6.0\proekt002_004.dll
+D:\обучение\c#\proekt002_004\bin\Debug\net6.0\proekt002_004.pdb
+D:\обучение\c#\proekt002_004\obj\Debug\net6.0\proekt002_004.dll
+D:\обучение\c#\proekt002_004\obj\Debug\net6.0\refint\proekt002_004.dll
+D:\обучение\c#\proekt002_004\obj\Debug\net6.0\proekt002_004.pdb
+D:\обучение\c#\proekt002_004\obj\Debug\net6.0\proekt002_004.genruntimeconfig.cache
+D:\обучение\c#\proekt002_004\obj\Debug\net6.0\ref\proekt002_004.dll
