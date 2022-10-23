@@ -10,5 +10,6 @@ Console.WriteLine($"случайное число от 100 до 999 равно {
 
 int a1 = number/100;
 int a2 = (number % 10);
+int result = a1 *10 + a2;
 
-Console.WriteLine($"трехзначное число с удаленной второй цифрой {a1} {a2}");
+Console.WriteLine($"трехзначное число с удаленной второй цифрой {result}");
